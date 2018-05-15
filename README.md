@@ -4,7 +4,7 @@
 
 You will be given 41 clip art images. Your task is to describe what you see in each image.
 
-You'll find a spreadsheet `descriptions_NAME.xsl` where NAME should be replaced with your last name. The first column of this file contains the filenames of the images to describe. The second column is where you'll write your description. The third column is left for you to write any comment regarding that specific image (see the [comment section](#comments)). 
+You'll find a spreadsheet `descriptions_NAME.xsl`. Copy this file and rename it such that NAME is replaced with your last name. The first column of this file contains the filenames of the images to describe. The second column is where you'll write your description. The third column is left for you to write any comment regarding that specific image (see the [comment section](#comments)). 
 
 The images are located in the folder `images/all`. 
 
